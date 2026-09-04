@@ -1,3 +1,3 @@
 ### Leaders
-* [Leader One](mailto:leader.email@owasp.org)
-* [Leader Two](mailto:leader.email@owasp.org)
+* [Nader Rabadi](mailto:nader.rabadi@owasp.org)
+* [Shabnaj Liaqat](mailto:shabnad.liaqat@owasp.org)
