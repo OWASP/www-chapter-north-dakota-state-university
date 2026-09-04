@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP North Dakota University
+title: OWASP North Dakota State University
 tags: example-tag
 region: North America
 country: United States
