@@ -1,10 +1,10 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
+title: OWASP North Dakota University
 tags: example-tag
-region: [:REGION]
-country: [:COUNTRY]
+region: North America
+country: United States
 meetup-group:
 
 ---
